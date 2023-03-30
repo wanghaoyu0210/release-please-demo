@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/wanghaoyu0210/release-please-demo/compare/v2.0.0...v2.1.0) (2023-03-30)
+
+
+### Features
+
+* add age property ([#7](https://github.com/wanghaoyu0210/release-please-demo/issues/7)) ([189e236](https://github.com/wanghaoyu0210/release-please-demo/commit/189e236ec045fd5842729c768e567e14654daa8b))
+
 ## [2.0.0](https://github.com/wanghaoyu0210/release-please-demo/compare/v1.0.0...v2.0.0) (2023-03-30)
 
 
