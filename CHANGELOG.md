@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/wanghaoyu0210/release-please-demo/compare/v1.0.0...v2.0.0) (2023-03-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* test versions
+
+### Features
+
+* test versions ([f085f65](https://github.com/wanghaoyu0210/release-please-demo/commit/f085f65546537d9fedf8f0aeec4538f55b29c1ea))
+
 ## 1.0.0 (2023-03-30)
 
 
