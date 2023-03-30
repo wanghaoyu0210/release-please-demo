@@ -1,3 +1,4 @@
 class Demo {
+    name = ''
     constructor() {}
 }
